@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @thesirojiddinov
-- 👀 I’m interested in machine learning and ai
-- 🌱 I’m currently learning python
+- 👀 I’m into ux/ui
 - 📫 You can reach me by my email: sirojiddinov1javohir@gmail.com
 
 <!---
